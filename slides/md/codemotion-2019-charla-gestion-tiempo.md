@@ -31,7 +31,7 @@
 
 ## Esta charla
 
-> - Muchos amigos y compañeros me preguntan de donde saco tiempo.
+> - Muchos amigos y compañeros me preguntan de dónde saco tiempo.
 >       - De ahí la **motivación** de esta charla.
 > - Es la primera charla no técnica que doy.
 >       - De ahí la **preparación** de esta charla.
@@ -39,9 +39,9 @@
 ## Vídeos resumen
 
 > - [Getting Things Done (GTD) | David Allen](https://www.youtube.com/watch?v=gCswMsONkwY)
->       - Captura, clarifica, organiza, revisa, comprometete.
+>       - Captura, clarifica, organiza, revisa, comprométete.
 > - [The 7 habits of highly effective people | Stephen Covey](https://www.youtube.com/watch?v=ktlTxC4QG8g)
->       - Los 2 más importantes: se proactivo y haz primero lo primero.
+>       - Los 2 más importantes: sé proactivo y haz primero lo primero.
 > - [80/20 Rule - Do More by Doing Less | The Pareto Principle](https://www.youtube.com/watch?v=EAynHZE-lK4)
 >       - El 80% de las consecuencias proviene del 20% de las causas.
 
@@ -94,7 +94,7 @@
 > - Tienen que ser **concretas** para no dudar en su ejecución.
 > - Se tienen que **poder agendar** para que no se diluyan en el día a día.
 > - Prioriza y agenda tus tareas **al menos una vez a la semana**.
-> - Cubre **todos las objetivos** de tus sueños.
+> - Cubre **todos los objetivos** de tus sueños.
 
 ## Importante vs Urgente
 
@@ -121,19 +121,22 @@
 > - **Calendario** con agenda (para planificar tus tareas).
 > - **Lista de tareas** (antes de agendarlas hay que priorizarlas).
 >       - Ejemplo: <http://bit.ly/lista-tareas>
+> - **Otras listas** (ej: de la compra o el blog, porque lo que no escribes se olvida).
 > - **Alarmas** (móvil o reloj) programables.
 
 ## Tips varios
 
 > - Haz **primero lo primero**.
 > - Mantén el **orden** físico y virtual.
-> - Haz solo **una cosa a la vez**.
+> - Haz sólo **una cosa a la vez**.
 > - Conoce tus **herramientas de trabajo** como un samurai su katana.
 > - **Automatiza** todo lo que puedas (reglas mail, scripts, etc.).
 > - Recuerda la **regla 80/20**.
 > - El tiempo de una tarea **se expande** en función del tiempo asignado.
 > - Aprende a **decir NO** para no embarcarte en asuntos que no son tus planes.
-> - Aprovecha **tiempos muertos** (ej. transporte público) para hacer tareas de baja intensidad (charla técnica).
+> - Aprovecha **tiempos muertos** (ej. transporte público) para tareas de baja intensidad (charla técnica).
+> - Si una tarea dura **menos de 2 minutos** hazla, no la postpongas.
+> - A veces un **llamada telefónica** te ahorra muchos mails.
 
 # Ladrones de tiempo
 
@@ -150,7 +153,7 @@
 > - Cuando te interrumpen en mitad de una tarea programada.
 >       - **Ponte cascos** y comenta a tus compañeros que no te molesten mientras los tienes puestos.
 >       - Pon el móvil y el ordenador en **modo no molestar** sin notificaciones.
->       - Mira el **correo** solo 2/3 veces al día.
+>       - Mira el **correo** sólo 2/3 veces al día.
 >       - **Reuniones** de no más de una hora con una agenda clara.
 
 # Para finalizar
@@ -167,5 +170,6 @@
 
 - **Esta obra está bajo una licencia:**
   - [Creative Commons Reconocimiento-CompartirIgual 3.0](http://creativecommons.org/licenses/by-sa/3.0/es/)
+- Las imágenes utilizadas son de [Freepik](https://www.freepik.com/home) descargadas desde <www.flaticon.com>.
 
 # Gracias

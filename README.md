@@ -6,4 +6,12 @@ Muchos amigos y compañeros me han preguntado que de dónde sacaba tiempo para h
 
 - [Charla en el Codemotion](https://events.codemotion.com/conferences/madrid/2019/wp-content/themes/event/detail-talk.php?detail=13523)
 
+## Recursos
+
 - [Slides de la charla](https://asanzdiego.github.io/codemotion-2019-charla-gestion-tiempo/slides/export/codemotion-2019-charla-gestion-tiempo-reveal-slides.html)
+
+## Licencia
+
+- **Esta obra está bajo una licencia:**
+  - [Creative Commons Reconocimiento-CompartirIgual 3.0](http://creativecommons.org/licenses/by-sa/3.0/es/)
+- Las imágenes utilizadas son de [Freepik](https://www.freepik.com/home) descargadas desde <www.flaticon.com>.
