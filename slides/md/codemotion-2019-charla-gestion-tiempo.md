@@ -2,9 +2,9 @@
 % Adolfo Sanz De Diego (@asanzdiego)
 % Codemotion 2019
 
-# Autor
+# ![Autor](../img/100/user.png){style=box-shadow:none;vertical-align:middle} Autor
 
-## Adolfo Sanz De Diego
+## ![Adolfo Sanz De Diego](../img/100/asanzdiego.png){style=box-shadow:none;} <br /> Adolfo Sanz De Diego
 
 - Blog: [asanzdiego.com](http://asanzdiego.com/)
 - Correo: [asanzdiego@gmail.com](mailto:asanzdiego@gmail.com)
@@ -13,7 +13,7 @@
 - LinkedIn: [in/asanzdiego](http://www.linkedin.com/in/asanzdiego)
 - SlideShare: [slideshare.net/asanzdiego](http://www.slideshare.net/asanzdiego/)
 
-## Mi vida profesional
+## ![Mi vida profesional](../img/100/goal.png){style=box-shadow:none;} <br /> Mi vida profesional
 
 > - Asesor Técnico en la Consejería de Educación de la [CAM](http://www.comunidad.madrid/).
 > - Colaboro como profesor en la [Universidad de Alcalá](http://www.uah.es/).
@@ -21,7 +21,7 @@
 > - Lidero [HackathonLovers](http://www.pronoide.com/).
 > - Soy ponente en varios eventos y meetups.
 
-## Mi vida personal
+## ![Mi vida personal](../img/100/love.png){style=box-shadow:none;} <br /> Mi vida personal
 
 > - Veo series, películas y charlas técnicas.
 > - Aprendo algo nuevo todos los años.
@@ -29,14 +29,14 @@
 > - Salgo a correr y voy al gimnasio.
 > - Estoy casado y soy padre de 2 hijas.
 
-## Esta charla
+## ![Esta charla](../img/100/classroom.png){style=box-shadow:none;} <br /> Esta charla
 
 > - Muchos amigos y compañeros me preguntan de dónde saco tiempo.
->       - De ahí la **motivación** de esta charla.
+>       - ![Motivación](../img/100/muscle.png){style=box-shadow:none;vertical-align:middle} De ahí la **motivación** de esta charla.
 > - Es la primera charla no técnica que doy.
->       - De ahí la **preparación** de esta charla.
+>       - ![Preparación](../img/100/work.png){style=box-shadow:none;vertical-align:middle} De ahí la **preparación** de esta charla.
 
-## Vídeos resumen
+## ![](../img/100/.png){style=box-shadow:none;} <br /> Vídeos resumen
 
 > - [Getting Things Done (GTD) | David Allen](https://www.youtube.com/watch?v=gCswMsONkwY)
 >       - Captura, clarifica, organiza, revisa, comprométete.
@@ -45,7 +45,7 @@
 > - [80/20 Rule - Do More by Doing Less | The Pareto Principle](https://www.youtube.com/watch?v=EAynHZE-lK4)
 >       - El 80% de las consecuencias proviene del 20% de las causas.
 
-## Charlas TED
+## ![](../img/100/.png){style=box-shadow:none;} <br /> Charlas TED
 
 > - [How to gain control of your free time | Laura Vanderkam](https://www.youtube.com/watch?v=n3kNlFMXslo)
 >       - "No tengo tiempo", a menudo significa "No es una prioridad."
@@ -56,7 +56,7 @@
 
 # Objetivos
 
-## Cumplir sueños
+## ![](../img/100/.png){style=box-shadow:none;} <br /> Cumplir sueños
 
 > - Los objetivos nos ayudan a cumplir nuestros **sueños**.
 > - Tienen que ser **desafiantes** para que sean motivadores.
@@ -66,7 +66,7 @@
 > - Evalúalos y escribe unos nuevos **al menos una vez al año**.
 > - Cubre **todas las áreas importantes** de tu vida.
 
-## Áreas importantes
+## ![](../img/100/.png){style=box-shadow:none;} <br /> Áreas importantes
 
 > - **Salud**
 >       - Alimentación, deporte, dormir, diversión...
@@ -75,7 +75,7 @@
 > - **Amor**
 >       - Pareja, familia, amigos, comunidad...
 
-## Ejemplos de objetivos
+## ![](../img/100/.png){style=box-shadow:none;} <br /> Ejemplos de objetivos
 
 > - Perder 2 kilos.
 > - Correr una determinada carrera de X km.
@@ -87,7 +87,7 @@
 
 # Tareas
 
-## Concretar objetivos
+## ![](../img/100/.png){style=box-shadow:none;} <br /> Concretar objetivos
 
 > - Las tareas nos ayudan a cumplir nuestros **objetivos**.
 > - Tienen que ser **cortas** aunque haya muchas para un mismo objetivo.
@@ -96,7 +96,7 @@
 > - Prioriza y agenda tus tareas **al menos una vez a la semana**.
 > - Cubre **todos los objetivos** de tus sueños.
 
-## Importante vs Urgente
+## ![](../img/100/.png){style=box-shadow:none;} <br /> Importante vs Urgente
 
 +---------------+------------+---------------+
 |               |  URGENTE   |  NO_URGENTE   |
@@ -106,7 +106,7 @@
 | NO_IMPORTANTE | - delégalo | - evítalo     |
 +---------------+------------+---------------+
 
-## Ejemplos de tareas
+## ![](../img/100/.png){style=box-shadow:none;} <br /> Ejemplos de tareas
 
 > - Lunes y miércoles comer una ensalada.
 > - Martes y jueves salir a correr de 20:00 a 21:00.
@@ -116,7 +116,7 @@
 > - A principio de mes meter X/12 € en la cuenta de ahorro de forma automática.
 > - Domingos de 18:00 a 20:00 juegos de mesa en familia.
 
-## Herramientas
+## ![](../img/100/.png){style=box-shadow:none;} <br /> Herramientas
 
 > - **Calendario** con agenda (para planificar tus tareas).
 > - **Lista de tareas** (antes de agendarlas hay que priorizarlas).
@@ -124,7 +124,7 @@
 > - **Otras listas** (ej: de la compra o el blog, porque lo que no escribes se olvida).
 > - **Alarmas** (móvil o reloj) programables.
 
-## Tips varios
+## ![](../img/100/.png){style=box-shadow:none;} <br /> Tips varios
 
 > - Haz **primero lo primero**.
 > - Mantén el **orden** físico y virtual.
@@ -140,7 +140,7 @@
 
 # Ladrones de tiempo
 
-## Distracciones
+## ![](../img/100/.png){style=box-shadow:none;} <br /> Distracciones
 
 > - Cuando en vez de hacer tus tareas programadas empiezas a procrastinar.
 >       - Utiliza la **regla de los 5 segundos**.
@@ -148,7 +148,7 @@
 >       - Desinstala las **redes sociales** del móvil.
 >       - Cierra todas las **pestañas del navegador**, salvo las 2/3 que uses.
 
-## Interrupciones
+## ![](../img/100/.png){style=box-shadow:none;} <br /> Interrupciones
 
 > - Cuando te interrumpen en mitad de una tarea programada.
 >       - **Ponte cascos** y comenta a tus compañeros que no te molesten mientras los tienes puestos.
@@ -158,7 +158,7 @@
 
 # Para finalizar
 
-## Resumen
+## ![](../img/100/.png){style=box-shadow:none;} <br /> Resumen
 
 > - Marcar TUS **objetivos** desafiantes pero realizables y que se se pueden medir.
 > - **Evaluar** al menos una vez al año tu lista de objetivos.
@@ -166,7 +166,7 @@
 > - **Agendar** al menos una vez a la semana tu lista de tareas.
 > - Evitar las **distracciones** internas y las **interrupciones** externas.
 
-## Licencia
+## ![](../img/100/.png){style=box-shadow:none;} <br /> Licencia
 
 - **Esta obra está bajo una licencia:**
   - [Creative Commons Reconocimiento-CompartirIgual 3.0](http://creativecommons.org/licenses/by-sa/3.0/es/)
