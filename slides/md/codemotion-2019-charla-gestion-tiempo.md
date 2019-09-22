@@ -2,7 +2,11 @@
 % Adolfo Sanz De Diego (@asanzdiego)
 % Codemotion 2019
 
-# ![Autor](../img/100/user.png){style=box-shadow:none;vertical-align:middle} Autor
+
+
+# ![Autor](../img/200/user.png){style=box-shadow:none;vertical-align:middle;} Autor
+
+
 
 ## ![Adolfo Sanz De Diego](../img/100/asanzdiego.png){style=box-shadow:none;} <br /> Adolfo Sanz De Diego
 
@@ -36,7 +40,7 @@
 > - Es la primera charla no técnica que doy.
 >       - ![Preparación](../img/100/work.png){style=box-shadow:none;vertical-align:middle} De ahí la **preparación** de esta charla.
 
-## ![](../img/100/.png){style=box-shadow:none;} <br /> Vídeos resumen
+## ![Vídeos resumen](../img/100/youtube.png){style=box-shadow:none;} <br /> Vídeos resumen
 
 > - [Getting Things Done (GTD) | David Allen](https://www.youtube.com/watch?v=gCswMsONkwY)
 >       - Captura, clarifica, organiza, revisa, comprométete.
@@ -45,7 +49,7 @@
 > - [80/20 Rule - Do More by Doing Less | The Pareto Principle](https://www.youtube.com/watch?v=EAynHZE-lK4)
 >       - El 80% de las consecuencias proviene del 20% de las causas.
 
-## ![](../img/100/.png){style=box-shadow:none;} <br /> Charlas TED
+## ![Charlas TED](../img/100/ted.png){style=box-shadow:none;} <br /> Charlas TED
 
 > - [How to gain control of your free time | Laura Vanderkam](https://www.youtube.com/watch?v=n3kNlFMXslo)
 >       - "No tengo tiempo", a menudo significa "No es una prioridad."
@@ -54,9 +58,13 @@
 > - [What makes a good life? Lessons from the longest study on happiness | Robert Waldinger](https://www.youtube.com/watch?v=8KkKuTCFvzI)
 >       - Las relaciones cercanas y verdaderas hacen más feliz a la persona que el dinero o la fama.
 
-# Objetivos
 
-## ![](../img/100/.png){style=box-shadow:none;} <br /> Cumplir sueños
+
+# ![Objetivos](../img/200/target.png){style=box-shadow:none;vertical-align:middle;} Objetivos
+
+
+
+## ![Cumplir sueños](../img/100/dreaming.png){style=box-shadow:none;} <br /> Cumplir sueños
 
 > - Los objetivos nos ayudan a cumplir nuestros **sueños**.
 > - Tienen que ser **desafiantes** para que sean motivadores.
@@ -66,7 +74,7 @@
 > - Evalúalos y escribe unos nuevos **al menos una vez al año**.
 > - Cubre **todas las áreas importantes** de tu vida.
 
-## ![](../img/100/.png){style=box-shadow:none;} <br /> Áreas importantes
+## ![Áreas importantes](../img/100/pie-chart.png){style=box-shadow:none;} <br /> Áreas importantes
 
 > - **Salud**
 >       - Alimentación, deporte, dormir, diversión...
@@ -75,7 +83,7 @@
 > - **Amor**
 >       - Pareja, familia, amigos, comunidad...
 
-## ![](../img/100/.png){style=box-shadow:none;} <br /> Ejemplos de objetivos
+## ![Ejemplos de objetivos](../img/100/.png){style=box-shadow:none;} <br /> Ejemplos de objetivos
 
 > - Perder 2 kilos.
 > - Correr una determinada carrera de X km.
@@ -85,9 +93,13 @@
 > - Ahorrar X € al año.
 > - Pasar más tiempo con mis seres queridos.
 
-# Tareas
 
-## ![](../img/100/.png){style=box-shadow:none;} <br /> Concretar objetivos
+
+# ![Tareas](../img/200/.png){style=box-shadow:none;vertical-align:middle;} Tareas
+
+
+
+## ![Concretar objetivos](../img/100/.png){style=box-shadow:none;} <br /> Concretar objetivos
 
 > - Las tareas nos ayudan a cumplir nuestros **objetivos**.
 > - Tienen que ser **cortas** aunque haya muchas para un mismo objetivo.
@@ -96,7 +108,7 @@
 > - Prioriza y agenda tus tareas **al menos una vez a la semana**.
 > - Cubre **todos los objetivos** de tus sueños.
 
-## ![](../img/100/.png){style=box-shadow:none;} <br /> Importante vs Urgente
+## ![Importante vs Urgente](../img/100/.png){style=box-shadow:none;} <br /> Importante vs Urgente
 
 +---------------+------------+---------------+
 |               |  URGENTE   |  NO_URGENTE   |
@@ -106,7 +118,7 @@
 | NO_IMPORTANTE | - delégalo | - evítalo     |
 +---------------+------------+---------------+
 
-## ![](../img/100/.png){style=box-shadow:none;} <br /> Ejemplos de tareas
+## ![Ejemplos de tareas](../img/100/.png){style=box-shadow:none;} <br /> Ejemplos de tareas
 
 > - Lunes y miércoles comer una ensalada.
 > - Martes y jueves salir a correr de 20:00 a 21:00.
@@ -116,7 +128,7 @@
 > - A principio de mes meter X/12 € en la cuenta de ahorro de forma automática.
 > - Domingos de 18:00 a 20:00 juegos de mesa en familia.
 
-## ![](../img/100/.png){style=box-shadow:none;} <br /> Herramientas
+## ![Herramientas](../img/100/.png){style=box-shadow:none;} <br /> Herramientas
 
 > - **Calendario** con agenda (para planificar tus tareas).
 > - **Lista de tareas** (antes de agendarlas hay que priorizarlas).
@@ -124,7 +136,7 @@
 > - **Otras listas** (ej: de la compra o el blog, porque lo que no escribes se olvida).
 > - **Alarmas** (móvil o reloj) programables.
 
-## ![](../img/100/.png){style=box-shadow:none;} <br /> Tips varios
+## ![Tips varios](../img/100/.png){style=box-shadow:none;} <br /> Tips varios
 
 > - Haz **primero lo primero**.
 > - Mantén el **orden** físico y virtual.
@@ -138,9 +150,13 @@
 > - Si una tarea dura **menos de 2 minutos** hazla, no la postpongas.
 > - A veces un **llamada telefónica** te ahorra muchos mails.
 
-# Ladrones de tiempo
 
-## ![](../img/100/.png){style=box-shadow:none;} <br /> Distracciones
+
+# ![Ladrones de tiempo](../img/200/.png){style=box-shadow:none;vertical-align:middle;} Ladrones de tiempo
+
+
+
+## ![Distracciones](../img/100/.png){style=box-shadow:none;} <br /> Distracciones
 
 > - Cuando en vez de hacer tus tareas programadas empiezas a procrastinar.
 >       - Utiliza la **regla de los 5 segundos**.
@@ -148,7 +164,7 @@
 >       - Desinstala las **redes sociales** del móvil.
 >       - Cierra todas las **pestañas del navegador**, salvo las 2/3 que uses.
 
-## ![](../img/100/.png){style=box-shadow:none;} <br /> Interrupciones
+## ![Interrupciones](../img/100/.png){style=box-shadow:none;} <br /> Interrupciones
 
 > - Cuando te interrumpen en mitad de una tarea programada.
 >       - **Ponte cascos** y comenta a tus compañeros que no te molesten mientras los tienes puestos.
@@ -156,7 +172,11 @@
 >       - Mira el **correo** sólo 2/3 veces al día.
 >       - **Reuniones** de no más de una hora con una agenda clara.
 
-# Para finalizar
+
+
+# ![](../img/200/.png){style=box-shadow:none;vertical-align:middle;} Para finalizar
+
+
 
 ## ![](../img/100/.png){style=box-shadow:none;} <br /> Resumen
 
@@ -170,6 +190,7 @@
 
 - **Esta obra está bajo una licencia:**
   - [Creative Commons Reconocimiento-CompartirIgual 3.0](http://creativecommons.org/licenses/by-sa/3.0/es/)
+- Las slides han sido realizadas con [MarkdownSlides](https://github.com/asanzdiego/markdownslides)
 - Las imágenes utilizadas son de [Freepik](https://www.freepik.com/home) descargadas desde <www.flaticon.com>.
 
-# Gracias
+# ![](../img/200/.png){style=box-shadow:none;vertical-align:middle;} Gracias
