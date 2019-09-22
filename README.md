@@ -12,6 +12,6 @@ Muchos amigos y compañeros me han preguntado que de dónde sacaba tiempo para h
 
 ## Licencia
 
-- **Esta obra está bajo una licencia:**
-  - [Creative Commons Reconocimiento-CompartirIgual 3.0](http://creativecommons.org/licenses/by-sa/3.0/es/)
-- Las imágenes utilizadas son de [Freepik](https://www.freepik.com/home) descargadas desde <www.flaticon.com>.
+- Esta obra está bajo una licencia [Creative Commons Reconocimiento-CompartirIgual 3.0](http://creativecommons.org/licenses/by-sa/3.0/es/)
+- Las slides han sido realizadas con [MarkdownSlides](https://github.com/asanzdiego/markdownslides)
+- Las imágenes utilizadas son de [Freepik](https://www.freepik.com/home) descargadas desde [FlatIcon](http://www.flaticon.com).
