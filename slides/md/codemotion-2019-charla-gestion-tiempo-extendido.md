@@ -80,7 +80,6 @@
 > - Ahorrar X € al año.
 > - Pasar más tiempo con mi familia.
 
-
 ## ![Concretar objetivos](../img/100/list.png){style=box-shadow:none;} <br /> Tareas
 
 > - Las tareas nos ayudan a cumplir nuestros **objetivos**.

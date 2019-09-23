@@ -61,7 +61,6 @@
 > - **Todas las áreas** de tu vida.
 > - Evalúalos y escríbelos **mínimo una vez al año**.
 
-
 ## ![Áreas importantes](../img/100/pie-chart.png){style=box-shadow:none;} <br /> Áreas importantes
 
 > - ![Salud](../img/100/exercise.png){style=box-shadow:none;vertical-align:middle;} **Salud**
@@ -81,7 +80,6 @@
 > - Ahorrar X € al año.
 > - Pasar más tiempo con mi familia.
 
-
 ## ![Concretar objetivos](../img/100/list.png){style=box-shadow:none;} <br /> Tareas
 
 > - Cumplir nuestros **objetivos**.
@@ -90,7 +88,6 @@
 > - **Agendables**.
 > - **Todos los objetivos** de tus sueños.
 > - Priorízalos y agéndalos **mínimo una vez a la semana**.
-
 
 ## ![Importante vs Urgente](../img/100/priority.png){style=box-shadow:none;} <br /> Importante vs Urgente
 
