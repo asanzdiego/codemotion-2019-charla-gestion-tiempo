@@ -4,11 +4,9 @@ Desde siempre he sido muy activo, y he realizado multitud de tareas de forma sim
 
 Muchos amigos y compañeros me han preguntado que de dónde sacaba tiempo para hacer tantas cosas. Yo creo que el secreto está en gestionar bien mi tiempo. Y de eso quiero hablar en esta charla. Quiero dar algunos consejos de cómo gestiono yo mi tiempo, por si a alguien le es útil :-)
 
-- [Charla en el Codemotion](https://events.codemotion.com/conferences/madrid/2019/wp-content/themes/event/detail-talk.php?detail=13523)
-
-## Recursos
-
 - [Slides de la charla](https://asanzdiego.github.io/codemotion-2019-charla-gestion-tiempo/slides/export/codemotion-2019-charla-gestion-tiempo-reveal-slides.html)
+
+- [Slides extendidas de la charla](https://asanzdiego.github.io/codemotion-2019-charla-gestion-tiempo/slides/export/codemotion-2019-charla-gestion-tiempo-extendido-reveal-slides.html)
 
 ## Licencia
 
