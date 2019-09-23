@@ -17,14 +17,14 @@
 > - Asesor Técnico en la [CAM](http://www.comunidad.madrid/).
 > - Profesor en la [Universidad de Alcalá](http://www.uah.es/).
 > - Formador en [Pronoide](http://www.pronoide.com/).
-> - Lider en [HackathonLovers](http://www.pronoide.com/).
+> - Líder en [HackathonLovers](http://www.pronoide.com/).
 > - Ponente en eventos y meetups.
 
 ## ![Mi vida personal](../img/100/love.png){style=box-shadow:none;} <br /> Mi vida personal
 
 > - Veo series, películas y charlas técnicas.
 > - Aprendo algo nuevo todos los años.
-> - Escribo  en mi blog.
+> - Escribo en mi blog.
 > - Corro y voy al gimnasio.
 > - Casado y padre de 2 hijas.
 
@@ -77,7 +77,7 @@
 > - Perder 2 kilos.
 > - Correr una carrera de X km.
 > - Dormir 8 horas.
-> - Superar B2 de inglés.
+> - Superar el B2 de inglés.
 > - Aprender una tecnología.
 > - Ahorrar X € al año.
 > - Pasar más tiempo con mi familia.
@@ -106,7 +106,7 @@
 > - L y X comer una ensalada.
 > - M y J correr de 20:00 a 21:00.
 > - Alarma a las 23:00 para irme a dormir.
-> - Antes de acostarme 15 minutos deinglés.
+> - Antes de acostarme 15 minutos de inglés.
 > - En el metro ver charlas técnicas.
 > - Meter X/12 € al mes en la cuenta de ahorro.
 > - Domingos tarde juegos de mesa en familia.
