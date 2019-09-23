@@ -2,6 +2,8 @@
 % Adolfo Sanz De Diego (@asanzdiego)
 % ![Codemotion 2019](../img/codemotion.png){style=box-shadow:none;}
 
+# &nbsp;
+
 ## ![Adolfo Sanz De Diego](../img/100/asanzdiego.png){style=box-shadow:none;} <br /> Adolfo Sanz De Diego
 
 > - Blog: [asanzdiego.com](http://asanzdiego.com/)
