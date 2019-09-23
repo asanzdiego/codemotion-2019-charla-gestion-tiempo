@@ -1,6 +1,6 @@
 % Tips para mejorar la gestión de tu tiempo
 % Adolfo Sanz De Diego (@asanzdiego)
-% Codemotion 2019
+% ![Codemotion 2019](../img/codemotion.png){style=box-shadow:none;}
 
 ## ![Adolfo Sanz De Diego](../img/100/asanzdiego.png){style=box-shadow:none;} <br /> Adolfo Sanz De Diego
 
