@@ -10,7 +10,7 @@ Muchos amigos y compañeros me han preguntado que de dónde sacaba tiempo para h
 
 - [Slides extendidas de la charla - HTML](https://asanzdiego.github.io/codemotion-2019-charla-gestion-tiempo/slides/export/codemotion-2019-charla-gestion-tiempo-extendido-reveal-slides.html)
 
-- [Slides extendidas de la charla - PDF]https://github.com/asanzdiego/codemotion-2019-charla-gestion-tiempo/raw/master/slides/export/codemotion-2019-charla-gestion-tiempo-extendido-reveal-slides.pdf)
+- [Slides extendidas de la charla - PDF](https://github.com/asanzdiego/codemotion-2019-charla-gestion-tiempo/raw/master/slides/export/codemotion-2019-charla-gestion-tiempo-extendido-reveal-slides.pdf)
 
 ## Licencia
 
