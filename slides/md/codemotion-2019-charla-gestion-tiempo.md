@@ -15,7 +15,7 @@
 > - Asesor Técnico en la [CAM](http://www.comunidad.madrid/).
 > - Profesor en la [Universidad de Alcalá](http://www.uah.es/).
 > - Formador en [Pronoide](http://www.pronoide.com/).
-> - Líder en [HackathonLovers](http://www.pronoide.com/).
+> - Lídero [HackathonLovers](http://www.pronoide.com/).
 > - Ponente en eventos y meetups.
 
 ## ![Mi vida personal](../img/100/love.png){style=box-shadow:none;} <br /> Mi vida personal
@@ -59,7 +59,7 @@
 > - **Medibles**.
 > - **Depender de ti** exclusivamente.
 > - Evalúalos y escríbelos **mínimo anualmente**.
-> - **Todas las áreas** de tu vida.
+> - Cubre **todas las áreas** de tu vida.
 
 ## ![Áreas importantes](../img/100/pie-chart.png){style=box-shadow:none;} <br /> Áreas importantes
 
@@ -86,8 +86,8 @@
 > - **Cortas**.
 > - **Concretas**.
 > - **Agendables**.
-> - **Todos los objetivos** de tus sueños.
-> - Priorízalos y agéndalos **mínimo semanalmente**.
+> - Cubre **todos los objetivos** de tus sueños.
+> - Priorízalas y agéndalas **mínimo semanalmente**.
 
 ## ![Importante vs Urgente](../img/100/priority.png){style=box-shadow:none;} <br /> Importante vs Urgente
 
