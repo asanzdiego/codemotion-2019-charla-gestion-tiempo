@@ -58,8 +58,8 @@
 > - Tienen que ser **realizables** según nuestro nivel de habilidad.
 > - Se tienen que **poder medir** para poder evaluar su consecución.
 > - Sólo pueden **depender de ti** y no de terceras personas.
-> - Cubre **todas las áreas importantes** de tu vida.
 > - Evalúalos y escribe unos nuevos **al menos una vez al año**.
+> - Cubre **todas las áreas importantes** de tu vida.
 
 ## ![Áreas importantes](../img/100/pie-chart.png){style=box-shadow:none;} <br /> Áreas importantes
 

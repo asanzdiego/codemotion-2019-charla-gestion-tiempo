@@ -2,8 +2,6 @@
 % Adolfo Sanz De Diego (@asanzdiego)
 % ![Codemotion 2019](../img/codemotion.png){style=box-shadow:none;}
 
-# &nbsp;
-
 ## ![Adolfo Sanz De Diego](../img/100/asanzdiego.png){style=box-shadow:none;} <br /> Adolfo Sanz De Diego
 
 > - Blog: [asanzdiego.com](http://asanzdiego.com/)
@@ -60,8 +58,8 @@
 > - **Realizables** (nivel de habilidad).
 > - **Medibles**.
 > - **Depender de ti** exclusivamente.
+> - Evalúalos y escríbelos **mínimo anualmente**.
 > - **Todas las áreas** de tu vida.
-> - Evalúalos y escríbelos **mínimo una vez al año**.
 
 ## ![Áreas importantes](../img/100/pie-chart.png){style=box-shadow:none;} <br /> Áreas importantes
 
@@ -89,7 +87,7 @@
 > - **Concretas**.
 > - **Agendables**.
 > - **Todos los objetivos** de tus sueños.
-> - Priorízalos y agéndalos **mínimo una vez a la semana**.
+> - Priorízalos y agéndalos **mínimo semanalmente**.
 
 ## ![Importante vs Urgente](../img/100/priority.png){style=box-shadow:none;} <br /> Importante vs Urgente
 
