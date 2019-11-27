@@ -9,7 +9,7 @@ Muchos amigos y compañeros me han preguntado que de dónde sacaba tiempo para h
 <a href="https://www.youtube.com/watch?v=MQUqFDNqD7c"><img src="./slides/img/video.png" alt="Vídeo de la charla Tips para mejorar la gestión de tu tiempo"/></a>
 
 
-<a href="https://www.youtube.com/watch?v=MQUqFDNqD7c">Vídeo de la charla Tips para mejorar la gestión de tu tiempo"/></a>
+<a href="https://www.youtube.com/watch?v=MQUqFDNqD7c">Vídeo de la charla Tips para mejorar la gestión de tu tiempo</a>
 
 ## Slides
 
